@@ -8,3 +8,17 @@
 * To understand how different elements are emphasized for specific causes
 * To understand how to write a paper in a way that it effectively differentiates from other papers of the same domain
   * Our draft should've focused on how simple our network is, and how simple our technique is, but still it yields great results. 
+
+3. How to improve on mathematical foundation?
+* Make time to study Calculus, Probability Theory, Discrete Mathematics, Linear Algebra (Prof. Suha)
+* Think a lot more about the equations in papers
+  * What do they do, what meaning do they have
+
+4. It's always important to "FULLY SCRUTINIZE" why such results were obtained
+* Nontheless whether the results were good or bad
+* Start with simple data
+* **Visualize** along parts of the neural network (or any model in use)
+
+5. Get used to the metrics/approaches in a lot of papers
+* Cross-domain knowledge WORKS
+  * even in CVPR2020, something from NLP->Vision (Image GPT)
