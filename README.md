@@ -1,2 +1,10 @@
 # research_questions
-My questions - and answers (not necessarily mine) - along my research life
+
+My questions, and hopefully answers to those questions
+* Or answers only, obtained outside of my questions
+
+## Categories
+
+1. To-be categorized
+2. Paper Writing
+3. Miscellaneous
