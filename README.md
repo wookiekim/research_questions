@@ -7,4 +7,5 @@ My questions, and hopefully answers to those questions
 
 1. To-be categorized
 2. Paper Writing
-3. Miscellaneous
+3. Glossary of terms and expressions
+4. Miscellaneous
