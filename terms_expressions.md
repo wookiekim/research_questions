@@ -11,4 +11,8 @@
 * not being whwat is purports to be, false or fake
 * Apprently but not actually valid
 * illegitimate
-  ex) "find reliable matches by suppressing spurious ones.." 
+  ex) "find reliable matches by suppressing spurious ones.."
+  
+4. Fortuitious (lottery hypothesis)
+* Happened by accident/ luck
+  * "..the importance of these **fortuitious** initializations"
