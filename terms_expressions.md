@@ -16,3 +16,7 @@
 4. Fortuitious (lottery hypothesis)
 * Happened by accident/ luck
   * "..the importance of these **fortuitious** initializations"
+
+5. commensurate
+* corresponding to size or degree; in proportion
+  * Salary will commensurate with experience
