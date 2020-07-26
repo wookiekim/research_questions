@@ -36,3 +36,7 @@
 9. "performance immediately suffers"
 
 10. "results are more pronounced"
+
+11. prime (v)
+* Prepare (something) ready for use or action
+  * "It is possible that dropout-induced sparsity primes a network to be pruned"
