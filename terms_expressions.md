@@ -44,3 +44,5 @@
 12. evocative(a)
 * bringing strong images, memories, or feelings to mind
   * "we study the hypothesis on networks evocative of the architectures and techniques used in practice"
+
+13. "conjectured" (adv for conjecture)
