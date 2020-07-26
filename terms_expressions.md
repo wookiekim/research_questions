@@ -53,3 +53,9 @@
   * "We use the same training regime and hyperparams"
 
 15. "Our empirical study of the existence and nature of winning tickets invites a number of follow-up questions" - Discussion
+
+16. "Loss Landscape"
+* The initialization might land in a region of the loss landscape that is particularly amenable to optimization
+
+17. amenable
+* capable of being acted upon in a particular way; **susceptible to**
