@@ -20,3 +20,7 @@
 5. commensurate
 * corresponding to size or degree; in proportion
   * Salary will commensurate with experience
+  
+6. Conducive
+* good for, helpful to
+  * "new architectures and initialization schemes with the same properties that are conducive to learning"
