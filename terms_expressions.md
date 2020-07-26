@@ -46,3 +46,4 @@
   * "we study the hypothesis on networks evocative of the architectures and techniques used in practice"
 
 13. "conjectured" (adv for conjecture)
+* "Our conjectured explanation for this behaviour is as follows:"
