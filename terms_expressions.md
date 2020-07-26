@@ -47,3 +47,7 @@
 
 13. "conjectured" (adv for conjecture)
 * "Our conjectured explanation for this behaviour is as follows:"
+
+14. regime
+* A system or a planned way of doing things, especially one imposed from above
+  * "We use the same training regime and hyperparams"
