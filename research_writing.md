@@ -21,4 +21,4 @@
   * Deeplearning book reference
   * ex) hyperparameter -> lowercase greek letter
   * ex2) input constant -> uppercase italic
-
+* Always wise to include error bars when possible
