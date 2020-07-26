@@ -27,3 +27,8 @@
 
 7. Latent
 * Existing but not yet developed or manifest; hidden or concealed
+
+8. Proxy
+* Figure that can be used to represent the value of something in a calculation
+  * Proxy-anchor
+  * We use the iteration at which the early-stopping criterion is met as a proxy for how quickly the network learns.
