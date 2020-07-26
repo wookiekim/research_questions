@@ -59,3 +59,6 @@
 
 17. amenable
 * capable of being acted upon in a particular way; **susceptible to**
+
+18. Hypothesize
+* "We hypothesize that"
