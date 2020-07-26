@@ -40,3 +40,7 @@
 11. prime (v)
 * Prepare (something) ready for use or action
   * "It is possible that dropout-induced sparsity primes a network to be pruned"
+
+12. evocative(a)
+* bringing strong images, memories, or feelings to mind
+  * "we study the hypothesis on networks evocative of the architectures and techniques used in practice"
