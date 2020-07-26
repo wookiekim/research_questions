@@ -51,3 +51,5 @@
 14. regime
 * A system or a planned way of doing things, especially one imposed from above
   * "We use the same training regime and hyperparams"
+
+15. "Our empirical study of the existence and nature of winning tickets invites a number of follow-up questions" - Discussion
