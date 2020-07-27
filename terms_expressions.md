@@ -62,3 +62,7 @@
 
 18. Hypothesize
 * "We hypothesize that"
+
+19. foray
+* A sudden attack or incursion into enemy territory, especially to obtain something; a raid
+  * "As our first foray to Deep learning using PyTorch"
