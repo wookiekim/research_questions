@@ -66,3 +66,6 @@
 19. foray
 * A sudden attack or incursion into enemy territory, especially to obtain something; a raid
   * "As our first foray to Deep learning using PyTorch"
+
+20. manifold
+* A collection of points forming a certain kind of set, such as those of a topologically closed surface or an analog of this in three or more dimensions
