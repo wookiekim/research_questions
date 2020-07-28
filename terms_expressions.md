@@ -69,3 +69,5 @@
 
 20. manifold
 * A collection of points forming a certain kind of set, such as those of a topologically closed surface or an analog of this in three or more dimensions
+
+21. "To the best of our knowledge"
