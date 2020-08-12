@@ -71,3 +71,16 @@
 * A collection of points forming a certain kind of set, such as those of a topologically closed surface or an analog of this in three or more dimensions
 
 21. "To the best of our knowledge"
+
+22. Penultimate
+* Second last
+  * "Penultimate layer"
+
+23. "Shed light upon"
+
+24. logit
+* The raw outputs (unnormalized)
+
+25. desideratum (n)
+* Something that is needed or wanted
+  * "integrity was a desideratum"
