@@ -84,3 +84,7 @@
 25. desideratum (n)
 * Something that is needed or wanted
   * "integrity was a desideratum"
+  
+26. canonical (a)
+* (Mathematics) Relating to a general rule or standard formula
+   * "..aligning features on a canonical space"
