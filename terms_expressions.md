@@ -88,3 +88,7 @@
 26. canonical (a)
 * (Mathematics) Relating to a general rule or standard formula
    * "..aligning features on a canonical space"
+
+27. eschew (v)
+* deliberately avoid using; abstain from.
+  * "...which eschews the need for heuristic sorting..."
