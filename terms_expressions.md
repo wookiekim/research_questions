@@ -92,3 +92,11 @@
 27. eschew (v)
 * deliberately avoid using; abstain from.
   * "...which eschews the need for heuristic sorting..."
+
+28. emulate
+* reproduce the function or action of (a different computer, software system, etc.).
+  * "..which uses A to emulate the kernel pixels in 2D convolution"
+
+29. In essence
+* basically and without regard for peripheral details; fundamentally.
+  * "In essence, we argue that a small number of keypoints suffice..."
