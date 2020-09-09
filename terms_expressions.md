@@ -100,3 +100,12 @@
 29. In essence
 * basically and without regard for peripheral details; fundamentally.
   * "In essence, we argue that a small number of keypoints suffice..."
+
+30. dyad (n)
+* an operator which is a combination of two vectors.
+* something that consists of two elements or parts.
+  * ""the mother–child dyad"
+
+31. ascribe to (p.v)
+* attribute something to (a cause).
+  * "which can probably be ascribed to the small voxel size used in..."
