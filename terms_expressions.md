@@ -109,3 +109,8 @@
 31. ascribe to (p.v)
 * attribute something to (a cause).
   * "which can probably be ascribed to the small voxel size used in..."
+
+32. generality (n)
+* a statement or principle having general rather than specific validity or force.
+* vs generalizability?
+  * generality is the quality of being general while generalizability is the quality of being generalizable.
