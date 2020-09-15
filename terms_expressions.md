@@ -114,3 +114,6 @@
 * a statement or principle having general rather than specific validity or force.
 * vs generalizability?
   * generality is the quality of being general while generalizability is the quality of being generalizable.
+  
+33. Homography (of an image)
+* is a transformation (3x3 matrix) that maps the points in one image to the corresponding points in the other image.
