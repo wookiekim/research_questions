@@ -22,3 +22,5 @@
 5. Get used to the metrics/approaches in a lot of papers
 * Cross-domain knowledge WORKS
   * even in CVPR2020, something from NLP->Vision (Image GPT)
+
+6. Prof.Minsu: When reading a paper and introducing/summarizing it, make sure to check who the authors are, and which group they are from.
