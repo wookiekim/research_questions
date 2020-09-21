@@ -117,3 +117,7 @@
   
 33. Homography (of an image)
 * is a transformation (3x3 matrix) that maps the points in one image to the corresponding points in the other image.
+
+34. acuity(n)
+* sharpness or keenness of thought, vision, or hearing.
+* "which decreases spatial **acuity** and registration accuracy"
