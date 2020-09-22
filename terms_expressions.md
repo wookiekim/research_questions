@@ -121,3 +121,37 @@
 34. acuity(n)
 * sharpness or keenness of thought, vision, or hearing.
 * "which decreases spatial **acuity** and registration accuracy"
+
+35. SE(N) : mathematical expression
+* Special Euclidean Group (depending on dimension n of the space)
+* "...minimizes a differentiable loss via gradient descent on the continuous SE(3)"
+
+36. Veracity(n)
+* conforms to facts
+* "...to estimate the veracity of each correspondence"
+
+37. Putative
+* Generally considered or reputed to be
+* "..matched to form a set of putative correspondences."
+
+38. "refine the result by optimizing a **robust objective**"
+
+39. odometry
+* use of data from motion sensors to estimate change in position over time.
+
+40. holistic (a)
+* characterized by comprehension of the parts of something as intimately interconnected and explicable only by reference to the whole.
+* "3D Semantic segmentation typically requuires a **holistic** representation of the scene"
+
+41. "...succeed in capturing and encoding evidence hidden to hand-engineered descriptors"
+
+42. decoupled (a)
+* "..which they try to refine globally in a subsequent **decoupled** step"
+
+43. formulate (v)
+* create or devise methodically
+* "we formulate the traditional two-stage approach in an end-to-end framework"
+
+44. SO(N) : mathematical expression
+* special orthogonal group
+* group of all rotations about the originof N-dimensional Euclidean space under the operation of composition
