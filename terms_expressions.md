@@ -202,4 +202,49 @@
 55. anecdotal(a)
 * (of an account) not necessarily true or reliable, because based on personal accounts rather than facts or research.
 
+56. "We adopt the recent Neighbourhood Consensus Networks" "propose modifications to overcome their main limitations"
+* can refer to a strong baseline straightaway
+
+57. competitive results in...
+* can be used when the results are not SoTA, but comparable.
+
+58. detail(v)
+* "We detail the proposed..."
+
+59. As a section title, when reviewing an existing idea -> "Review: Neighbourhood Consensus Networks"
+
+60. memory-intensive (a)
+* high memory overhead.
+
+61. "prohibitively large"
+* "...they would still be prohibitively large"
+
+62. de facto
+* in fact
+* "...have become the de facto standard"
+* note: in italics
+
+63. 'modest at best'
+* another way of saying "marginal"
+* "..performance gains obtained by... have been only modest at best"
+
+64. full set of dense correspondences
+* a way of referring to exhaustive correspondences between all features
+
+65. "This work relates to several lines of research, which we review below"
+* At the beginning of related work, as the only sentence.
+
+66. tentative (a)
+* not certain or fixed
+
+67. amenable (a)
+* susceptible to, capcable of being acted upon in a  particular way
+* "In order to have an approach that is amenable to end-to-end training"
+
+68. a priori (a)
+* relating or denoting reasoning or knowledge which proceeds from **theoretical deduction** rather than from observation or experience
+* "Determining the correct matches from..... is, a priori, a significant challenge"
+* Note: in italics
+
+
 
