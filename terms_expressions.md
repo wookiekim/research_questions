@@ -155,3 +155,51 @@
 44. SO(N) : mathematical expression
 * special orthogonal group
 * group of all rotations about the originof N-dimensional Euclidean space under the operation of composition
+
+45. circumvent (v)
+* find a way around (an obstacle).
+* "To **circumvent** that, Eq.3 can be robustified against outliers by..."
+
+46. heteroscedastic (v)
+* In stats, a vector of random variables is heteroscedastic if the **variability of the random disturbance is different across elements** of the vector.
+* "..by introducing a **heteroscedastic** weighting matrix"
+
+47. "Its derivation is provided in the supplementary material"
+* I need to know how to be precise in providing proofs and outlines
+* Mathematical induction..functional analysis?
+
+48. "We first describe the architectures used to approximate (functions...)"
+* All sub-architectures are used individually to model a function
+* DO NOT just stack layers and add superficial extravagances
+  * Always devise what each part of the architecture is for, what function they are trying to model.
+
+49. encompassed (a)
+* surround and have or hold within
+* "we aregue that some of the qrequired information is encompassed in the features of the second-to-last layer of the registration block"
+
+50. natural basis
+* aka standard basis
+* whose coordinates are all zero except one that equals 1 (ex [0 0 1])
+
+51. Hard negative mining
+* https://www.reddit.com/r/computervision/comments/2ggc5l/what_is_hard_negative_mining_and_how_is_it/
+* Label "False Positives" as "negatives" and leverage this additional information
+* consists of identifying training set examples which are given low prob by the model, but which should be high prob instead
+* Adversarial examples may be helpful as hard negative mining (an opinion)
+
+52. Concretely
+* In a definitive or conclusive way (To be precise? 엄밀하게?)
+* "Conretely, we fine an approximation of D by performing line-search to find the minimum c for which..."
+
+53. Subtle (a)
+* (especially of a change or distinction) so delicate or precise as to be difficult to analyze or describe.
+* "A subtle, but essential detail is that..."
+
+54. Lipschitz constant
+* https://www.eee.hku.hk/~msang/Numerical_Lipschitz.pdf
+* limits how fast the function can change, in other words, if there is no LIpschitz constant, the function can change extremely fast without border (ie becomes discontinuous)
+
+55. anecdotal(a)
+* (of an account) not necessarily true or reliable, because based on personal accounts rather than facts or research.
+
+
