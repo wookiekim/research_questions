@@ -175,7 +175,7 @@
 
 49. encompassed (a)
 * surround and have or hold within
-* "we aregue that some of the qrequired information is encompassed in the features of the second-to-last layer of the registration block"
+* "we argue that some of the required information is encompassed in the features of the second-to-last layer of the registration block"
 
 50. natural basis
 * aka standard basis
@@ -245,6 +245,35 @@
 * relating or denoting reasoning or knowledge which proceeds from **theoretical deduction** rather than from observation or experience
 * "Determining the correct matches from..... is, a priori, a significant challenge"
 * Note: in italics
+
+69. "well-established techniques"
+* referring to SIFT and other good methods
+
+70. "This suggests that the limiting factor may not lie in establishing the correspondences AS MUCH AS IN choosing those that are best to recover the pose"
+* saying that one thing seems to be important than the other
+
+71. "the ~assumption is violated in practice"
+* saying that a certain assumption does not always hold
+* "violated in practice"
+
+72. "which makes the optimization numerically **better behaved**"
+* a way of saying numerically stable?
+* needs a reference, or has to be obvious.
+
+73. ostensibly
+* apparently or purportedly, but perhaps not actually. 
+
+74. "To avoid exhaustive annotation"
+* to avoid the usage of strong supervisions, which require a lot of annotations
+
+75. sub-optimal
+* Close to optimal, but not optimal;
+* can be better. Used to express "not the best approach"
+
+76. "Needle-in-haystack" scenarios
+* used in "Learning to find good correspondences"
+* referring to cases where there are a lot of outliers (inliers being "needles")
+* Refers to the fact that English idioms could come in handy if used appropriately
 
 
 

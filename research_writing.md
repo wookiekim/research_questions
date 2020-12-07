@@ -22,3 +22,8 @@
   * ex) hyperparameter -> lowercase greek letter
   * ex2) input constant -> uppercase italic
 * Always wise to include error bars when possible
+
+3. Do not overclaim
+* "drastically improve"
+* "completely solves"
+
