@@ -275,5 +275,27 @@
 * referring to cases where there are a lot of outliers (inliers being "needles")
 * Refers to the fact that English idioms could come in handy if used appropriately
 
+77. "This is where our approach shines"
+* "shines"
 
+78. "Our proposed module, which is **realized with** a stack of non-isotropic 4D convolutions...."
+* "realized with"
+* implemented using?
 
+79. "It is also worth noting that..."
+* Note that...
+* It is to be noted that...
+
+80. exemplify (v)
+* be a typical example of
+* give an example of
+
+81. Tenent (aka tenet) (n)
+* A tenet is a principle or belief honored by a person or, more often, a group of people.
+
+82. disgress (v)
+* leave the main subject temporarily in speech or writing.
+* "I have disgressed a little from my orignial plan"
+
+83. astute (a)
+* having or showing an ability to accurately assess situations or people and turn this to one's advantage.
