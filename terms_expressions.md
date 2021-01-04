@@ -299,3 +299,6 @@
 
 83. astute (a)
 * having or showing an ability to accurately assess situations or people and turn this to one's advantage.
+
+84. Ambient space (n)
+* An ambient space or ambient configuration space is the space surrounding an object. 
