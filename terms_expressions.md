@@ -302,3 +302,20 @@
 
 84. Ambient space (n)
 * An ambient space or ambient configuration space is the space surrounding an object. 
+
+85. preclude (v)
+* ".,..precludes parallelization within training examples"
+* prevent from happening; make impossible
+
+86. Autoregression (n)
+* is a time series model that uses observations from previous time steps as input to a regression equation to predict the value at the next time step.
+
+87. desideratum (plural: desiderata) (n)
+* something that is needed or wanted.
+* "integrity was a desideratum"
+* "Motivating our use of self-attention we consider three desiderata"
+
+88. trump (v)
+* beat (someone or something) by saying or doing something better.
+* "..large scale training trumps inductive bias."
+
