@@ -319,3 +319,84 @@
 * beat (someone or something) by saying or doing something better.
 * "..large scale training trumps inductive bias."
 
+89. rendition (n)
+* visual representation or reproduction
+* synonyms: depiction, portrayal, representation, delineation
+
+90. delineate (v)
+* describe or portray (something) precisely
+* indicate the exact position of (a border or boundary).
+
+91. take with a grain of salt (expr)
+* to understand that something is not completely true or right
+* not take something too seriously
+* accept, but with some reservations or skepticism
+
+92. Lesion studies (n)
+* remove single blocks from an already trained network during inference.
+* such that the information has toflow through the skip connection
+
+93. corroborate (v)
+* confirm or give support to (a statement, theory, or finding)
+* synonyms: confirm, verify, endorse, ratify
+
+94. "We recall that"
+* before detailing the technical details of a well-known operation
+* "We recall that, given an image tensor....the output of a conv layer is given by..."
+
+95. convolve (v)
+* roll or coil together; entwine
+* verb for convolution
+
+95. conflate (v)
+* combine into one
+* "...suggest that conflating pre-training and architectural advances is misguided..."
+
+96. equivocal (a)
+* uncertain or questional in nature
+* ambiguous
+* "...perceived as an unequivocal(unambiguous) advancement over its predecessors"
+
+ 97. slew of 
+ * a very large number of
+ * "...a slew of downsides"
+
+ 96. potpourri of
+ * a mixture of things
+
+ 97. crux
+* the decisive or most important point at issue.
+
+98. Hadamard product
+* elementwise product.
+
+99. Iverson Bracket
+* [True ] == 1
+* [False] == 0 
+
+100. bifurcate(v)
+* to fork, branch to two
+
+101. aleatoric (v)
+* random
+
+102. nefarious (v)
+* wicked or criminal
+
+103. subsume (v)
+* to include or absorb in something else
+* "thereby subsumiuung the X into the training computational graph"
+
+104. entwined (a)
+* to be twisted together
+* "optimization and generalization are entwined in DNNs"
+
+105. paradigmatic (a)
+* serving as a typical example of something]
+* "A paradigmatic example of a memorization algorithm is k-nearest neighbors"
+
+106. operationalize (v)
+* put into operation or use
+* "we operationalize the definition of "memorization" as the behaviour exhivited by DNNs trained on noise"
+
+
