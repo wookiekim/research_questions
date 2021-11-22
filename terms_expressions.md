@@ -399,4 +399,16 @@
 * put into operation or use
 * "we operationalize the definition of "memorization" as the behaviour exhivited by DNNs trained on noise"
 
+107. ethos (n)
+* the characteristic spirit of a culture, era, or community as menifested in its beliefs and aspirations.
+* "THe design ethos of DETR easily extend to more complex tasks."
 
+108. purport(v)
+* claim
+
+109. ameliorate(v)
+* 개선하다 (usually a problem)
+
+110. proclivity (n)
+* a tendency to choose or do something regularly; an inclination or predisposition toward a particular thing
+* "...proclivity to stand more time on social media"
